@@ -6,12 +6,12 @@ Repository ini berisi code dan slide dari hasil praktikum.
 ## Pertemuan 1
 
 - Slide: [Praktikum 1 - HTML](https://aufaroot18.github.io/praktikum-web/Praktikum%201/Slide/Pertemuan%201.pdf)
-- Code
+- Code: [Praktikum 1](https://github.com/aufaroot18/praktikum-web/tree/main/Praktikum%201/Code)
 
 ## Pertemuan 2
 
 - Slide: [Praktikum 2 - HTML (2)](https://aufaroot18.github.io/praktikum-web/Praktikum%202/Slide/Praktikum%202.pdf)
-- Code
+- Code: [Praktikum 2](https://github.com/aufaroot18/praktikum-web/tree/main/Praktikum%202/Code)
 
 
 ## Pertemuan 3
