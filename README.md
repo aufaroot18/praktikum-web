@@ -18,3 +18,8 @@ Repository ini berisi code dan slide dari hasil praktikum.
 
 - Slide: [Praktikum 3 - CSS](https://aufaroot18.github.io/praktikum-web/Praktikum%203/Slide/Praktikum%203.pdf)
 - Code
+
+## Pertemuan 4
+
+- Slide: [Praktikum 4 - JavaScript](https://aufaroot18.github.io/praktikum-web/Praktikum%204/Slide/Praktikum%204.pdf)
+- Code
