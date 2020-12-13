@@ -33,3 +33,11 @@ Repository ini berisi code dan slide dari hasil praktikum.
 
 - Slide: [Praktikum 6 - RWD](https://aufaroot18.github.io/praktikum-web/Praktikum%206/Slide/Praktikum%206.pdf)
 - Code
+
+## Pertemuan 7
+
+- Video: [Praktikum 7 - Bootstrap](https://www.youtube.com/watch?v=nuwkn68v-GA)
+
+## Pertemuan 8
+
+- Video: [Praktikum 8 - Bootstrap (2)](https://www.youtube.com/watch?v=aPaV04n34HE)
