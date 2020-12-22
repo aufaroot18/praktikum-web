@@ -41,3 +41,7 @@ Repository ini berisi code dan slide dari hasil praktikum.
 ## Pertemuan 8
 
 - Video: [Praktikum 8 - Bootstrap (2)](https://www.youtube.com/watch?v=aPaV04n34HE)
+
+## Pertemuan 9
+
+- Video: [Praktikum 9 - Animasi](https://www.youtube.com/watch?v=QTmH6thIECI)
