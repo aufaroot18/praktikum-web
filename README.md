@@ -45,3 +45,7 @@ Repository ini berisi code dan slide dari hasil praktikum.
 ## Pertemuan 9
 
 - Video: [Praktikum 9 - Animasi](https://www.youtube.com/watch?v=QTmH6thIECI)
+
+## Pertemuan 10
+
+- Video: [Praktikum 10 - Slicing Halaman Register Menggunakan Framework Bootstrap](https://youtu.be/m1Iw9uVMDgs)
