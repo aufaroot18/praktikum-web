@@ -47,4 +47,5 @@ Repository ini berisi code dan slide dari hasil praktikum.
 
 ## Praktikum 10
 
-- Video: [Praktikum 10 - Slicing Halaman Register Menggunakan Framework Bootstrap](https://youtu.be/m1Iw9uVMDgs)
+- Video: [Praktikum 10 - Membuat Form Signup](https://youtu.be/GLABsVfMaVA)
+- Video: [Praktikum 10 TI-1 dan TI2](https://youtu.be/m1Iw9uVMDgs)
