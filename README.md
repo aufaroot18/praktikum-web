@@ -1,5 +1,4 @@
-# Praktikum Web - Teknik Informatika 2020
-Praktikum Web TI 2020
+Praktikum Web Teknik Informatika 2020.
 
 Repository ini berisi code dan slide dari hasil praktikum.
 
